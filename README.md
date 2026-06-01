@@ -1,6 +1,6 @@
 # 🍕 Zomato Funnel Analysis — User Journey & Conversion Analytics
 
-![Zomato](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AZomato_logo.png&ved=0CBYQjRxqFwoTCPDcpKT35pQDFQAAAAAdAAAAABAF&opi=89978449)
+![Zomato](https://img.shields.io/badge/Domain-Food%20Delivery-red)
 ![Tools](https://img.shields.io/badge/Tools-PostgreSQL%20%7C%20Power%20BI-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
